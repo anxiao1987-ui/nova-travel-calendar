@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nova//Travel Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nova Travel Calendar
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:hotel-luoyang-20260325@nova.opencalendar
+DTSTAMP:20260313T215800Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260327
+SUMMARY:All Seasons Luoyang Longmen Tanggong Middle Road Hotel
+LOCATION:唐宫中路与光华路交叉口东北角，洛阳
+DESCRIPTION:Hotel stay collected from booking screenshot.
+END:VEVENT
+BEGIN:VEVENT
+UID:hotel-qingdao-20260404@nova.opencalendar
+DTSTAMP:20260313T215800Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:All Seasons Qingdao Jiaodong Airport Jiaodong Metro Station Hotel
+LOCATION:胶州东路1188号，青岛/胶州
+DESCRIPTION:Hotel stay collected from booking screenshot.
+END:VEVENT
+BEGIN:VEVENT
+UID:hotel-guangzhou-20260408@nova.opencalendar
+DTSTAMP:20260313T215800Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:All Seasons Guangzhou Beijing Road Pedestrian Street Hotel
+LOCATION:越秀区北京路147号，广州
+DESCRIPTION:Hotel stay collected from booking screenshot.
+END:VEVENT
+BEGIN:VEVENT
+UID:hotel-guangzhou-20260411@nova.opencalendar
+DTSTAMP:20260313T215800Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260413
+SUMMARY:All Seasons Guangzhou Beijing Road Pedestrian Street Hotel
+LOCATION:越秀区北京路147号，广州
+DESCRIPTION:Hotel stay collected from booking screenshot.
+END:VEVENT
+END:VCALENDAR
