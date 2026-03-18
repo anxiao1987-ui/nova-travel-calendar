@@ -1,4 +1,4 @@
-BEGIN:VCALENDAR
+﻿BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Nova//Travel Calendar//EN
 CALSCALE:GREGORIAN
@@ -20,89 +20,98 @@ UID:hotel-luoyang-20260325@nova.opencalendar
 DTSTAMP:20260314T100100Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260327
-SUMMARY:全季洛阳龙门唐宫中路酒店
-LOCATION:唐宫中路与光华路交叉口东北角，洛阳
-DESCRIPTION:酒店入住行程（由订单截图提取）
+SUMMARY:å…¨å­£æ´›é˜³é¾™é—¨å”å®«ä¸­è·¯é…’åº—
+LOCATION:å”å®«ä¸­è·¯ä¸Žå…‰åŽè·¯äº¤å‰å£ä¸œåŒ—è§’ï¼Œæ´›é˜³
+DESCRIPTION:é…’åº—å…¥ä½è¡Œç¨‹ï¼ˆç”±è®¢å•æˆªå›¾æå–ï¼‰
 END:VEVENT
 BEGIN:VEVENT
 UID:hotel-qingdao-20260404@nova.opencalendar
 DTSTAMP:20260314T100100Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
-SUMMARY:全季青岛胶东机场胶州胶东地铁站酒店
-LOCATION:胶州东路1188号，青岛/胶州
-DESCRIPTION:酒店入住行程（由订单截图提取）
+SUMMARY:å…¨å­£é’å²›èƒ¶ä¸œæœºåœºèƒ¶å·žèƒ¶ä¸œåœ°é“ç«™é…’åº—
+LOCATION:èƒ¶å·žä¸œè·¯1188å·ï¼Œé’å²›/èƒ¶å·ž
+DESCRIPTION:é…’åº—å…¥ä½è¡Œç¨‹ï¼ˆç”±è®¢å•æˆªå›¾æå–ï¼‰
 END:VEVENT
 BEGIN:VEVENT
 UID:hotel-guangzhou-20260408@nova.opencalendar
 DTSTAMP:20260314T100100Z
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260409
-SUMMARY:全季广州北京路步行街酒店
-LOCATION:越秀区北京路147号，广州
-DESCRIPTION:酒店入住行程（由订单截图提取）
+SUMMARY:å…¨å­£å¹¿å·žåŒ—äº¬è·¯æ­¥è¡Œè¡—é…’åº—
+LOCATION:è¶Šç§€åŒºåŒ—äº¬è·¯147å·ï¼Œå¹¿å·ž
+DESCRIPTION:é…’åº—å…¥ä½è¡Œç¨‹ï¼ˆç”±è®¢å•æˆªå›¾æå–ï¼‰
 END:VEVENT
 BEGIN:VEVENT
 UID:hotel-guangzhou-20260411@nova.opencalendar
 DTSTAMP:20260314T100100Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260413
-SUMMARY:全季广州北京路步行街酒店
-LOCATION:越秀区北京路147号，广州
-DESCRIPTION:酒店入住行程（由订单截图提取）
+SUMMARY:å…¨å­£å¹¿å·žåŒ—äº¬è·¯æ­¥è¡Œè¡—é…’åº—
+LOCATION:è¶Šç§€åŒºåŒ—äº¬è·¯147å·ï¼Œå¹¿å·ž
+DESCRIPTION:é…’åº—å…¥ä½è¡Œç¨‹ï¼ˆç”±è®¢å•æˆªå›¾æå–ï¼‰
 END:VEVENT
 BEGIN:VEVENT
 UID:train-g1760-20260317@nova.opencalendar
 DTSTAMP:20260314T100100Z
 DTSTART;TZID=Asia/Shanghai:20260317T204300
 DTEND;TZID=Asia/Shanghai:20260317T213700
-SUMMARY:G1760 长沙南 → 宜春
-LOCATION:长沙南站 -> 宜春站
-DESCRIPTION:火车行程（由车票截图提取）
+SUMMARY:G1760 é•¿æ²™å— â†’ å®œæ˜¥
+LOCATION:é•¿æ²™å—ç«™ -> å®œæ˜¥ç«™
+DESCRIPTION:ç«è½¦è¡Œç¨‹ï¼ˆç”±è½¦ç¥¨æˆªå›¾æå–ï¼‰
 END:VEVENT
 BEGIN:VEVENT
 UID:train-g219-20260325@nova.opencalendar
 DTSTAMP:20260314T100100Z
 DTSTART;TZID=Asia/Shanghai:20260325T104400
 DTEND;TZID=Asia/Shanghai:20260325T112300
-SUMMARY:G219 宜春 → 长沙南
-LOCATION:宜春站 -> 长沙南站
-DESCRIPTION:火车行程（由车票截图提取）
+SUMMARY:G219 å®œæ˜¥ â†’ é•¿æ²™å—
+LOCATION:å®œæ˜¥ç«™ -> é•¿æ²™å—ç«™
+DESCRIPTION:ç«è½¦è¡Œç¨‹ï¼ˆç”±è½¦ç¥¨æˆªå›¾æå–ï¼‰
 END:VEVENT
 BEGIN:VEVENT
 UID:train-g404-20260325@nova.opencalendar
 DTSTAMP:20260314T100100Z
 DTSTART;TZID=Asia/Shanghai:20260325T115400
 DTEND;TZID=Asia/Shanghai:20260325T153300
-SUMMARY:G404 长沙南 → 洛阳龙门
-LOCATION:长沙南站 -> 洛阳龙门站
-DESCRIPTION:火车行程（由车票截图提取）
+SUMMARY:G404 é•¿æ²™å— â†’ æ´›é˜³é¾™é—¨
+LOCATION:é•¿æ²™å—ç«™ -> æ´›é˜³é¾™é—¨ç«™
+DESCRIPTION:ç«è½¦è¡Œç¨‹ï¼ˆç”±è½¦ç¥¨æˆªå›¾æå–ï¼‰
 END:VEVENT
 BEGIN:VEVENT
 UID:train-g1166-20260327@nova.opencalendar
 DTSTAMP:20260314T100100Z
 DTSTART;TZID=Asia/Shanghai:20260327T145000
 DTEND;TZID=Asia/Shanghai:20260327T194400
-SUMMARY:G1166 洛阳龙门 → 长沙南
-LOCATION:洛阳龙门站 -> 长沙南站
-DESCRIPTION:火车行程（由车票截图提取）
+SUMMARY:G1166 æ´›é˜³é¾™é—¨ â†’ é•¿æ²™å—
+LOCATION:æ´›é˜³é¾™é—¨ç«™ -> é•¿æ²™å—ç«™
+DESCRIPTION:ç«è½¦è¡Œç¨‹ï¼ˆç”±è½¦ç¥¨æˆªå›¾æå–ï¼‰
 END:VEVENT
 BEGIN:VEVENT
 UID:train-g2166-20260327@nova.opencalendar
 DTSTAMP:20260314T100100Z
 DTSTART;TZID=Asia/Shanghai:20260327T203700
 DTEND;TZID=Asia/Shanghai:20260327T212400
-SUMMARY:G2166 长沙南 → 宜春
-LOCATION:长沙南站 -> 宜春站
-DESCRIPTION:火车行程（由车票截图提取）
+SUMMARY:G2166 é•¿æ²™å— â†’ å®œæ˜¥
+LOCATION:é•¿æ²™å—ç«™ -> å®œæ˜¥ç«™
+DESCRIPTION:ç«è½¦è¡Œç¨‹ï¼ˆç”±è½¦ç¥¨æˆªå›¾æå–ï¼‰
 END:VEVENT
 BEGIN:VEVENT
 UID:luoyang-longmen-20260327@nova.opencalendar
 DTSTAMP:20260314T185900Z
 DTSTART;TZID=Asia/Shanghai:20260327T100000
 DTEND;TZID=Asia/Shanghai:20260327T123000
-SUMMARY:龙门石窟（20人小团讲解）
-LOCATION:龙门石窟，大石门检票口，洛阳
-DESCRIPTION:景点行程（由订单截图提取）。建议提前半小时到景区并携带身份证原件。
+SUMMARY:é¾™é—¨çŸ³çªŸï¼ˆ20äººå°å›¢è®²è§£ï¼‰
+LOCATION:é¾™é—¨çŸ³çªŸï¼Œå¤§çŸ³é—¨æ£€ç¥¨å£ï¼Œæ´›é˜³
+DESCRIPTION:æ™¯ç‚¹è¡Œç¨‹ï¼ˆç”±è®¢å•æˆªå›¾æå–ï¼‰ã€‚å»ºè®®æå‰åŠå°æ—¶åˆ°æ™¯åŒºå¹¶æºå¸¦èº«ä»½è¯åŽŸä»¶ã€‚
 END:VEVENT
-END:VCALENDAR
+BEGIN:VEVENT
+UID:flight-sc4878-20260404@nova.opencalendar
+DTSTAMP:20260318T081600Z
+DTSTART;TZID=Asia/Shanghai:20260404T120500
+DTEND;TZID=Asia/Shanghai:20260404T141000
+SUMMARY:SC4878 长沙 → 青岛
+LOCATION:黄花机场T1 -> 胶东国际机场
+DESCRIPTION:航班行程（由订单截图提取）。乘机人：肖安；舱位：经济舱；机型：737 MAX 8。
+END:VEVENTEND:VCALENDAR
+
